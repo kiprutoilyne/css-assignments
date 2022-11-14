@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+
+    height: 100%;
+    width: 60%;
+    margin: 100px auto;
+    line-height: 1.5rem;
+    align-items: center;
+
+}
+
+.section1 h2 {
+    font-size: 18px;
+}
+
+.section1 p {
+    font-size: 14px;
+    color: green;
+}
+
+.section2 h2 {
+    font-size: 18px;
+}
+
+.section2 p {
+    font-size: 14px;
+    color: red;
+}
+
+.section3 h2 {
+    font-size: 18px;
+}
+
+.section3 p {
+    font-size: 14px;
+    color: blue;
+}
